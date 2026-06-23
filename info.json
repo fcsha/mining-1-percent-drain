@@ -1,9 +1,9 @@
 {
   "name": "mining-1-percent-drain",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Mining 1% Drain",
   "author": "fcsha",
   "description": "Sets resource_drain_rate_percent to 1 for all vanilla and Space Age mining drills (electric, burner, pumpjack, big). Ore patches last ~100x longer. Only modifies 4 vanilla prototypes; does not affect other mods. Uninstall to restore vanilla values.",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": ["base"]
 }

@@ -24,7 +24,7 @@
 
 ## 兼容性
 
-- **Factorio 版本：** 2.0
+- **Factorio 版本：** 2.1
 - **前置依赖：** `base`
 - **Space Age：** 可选（未启用时自动跳过 `big-mining-drill`）
 

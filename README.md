@@ -24,7 +24,7 @@ Other mods' drills are not affected.
 
 ## Compatibility
 
-- **Factorio Version:** 2.0
+- **Factorio Version:** 2.1
 - **Dependencies:** `base`
 - **Space Age:** Optional (auto-skips `big-mining-drill` if not loaded)
 
