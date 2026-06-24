@@ -1,14 +1,11 @@
-//----------------------------------------------------------------------------------------------------------
-// Changelog for Mining 1% Drain
-//----------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
 Date: 23.06.2026
-  Version: 1.1.0
-    Changes:
-      - Updated factorio_version to 2.1 for Factorio 2.1 (experimental) compatibility.
-      - No data-stage code changes: MiningDrillPrototype::resource_drain_rate_percent is unchanged in 2.1.
-
+  Changes:
+    - Updated factorio_version to 2.1 for Factorio 2.1 (experimental) compatibility.
+    - No data-stage code changes: MiningDrillPrototype::resource_drain_rate_percent is unchanged in 2.1.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
 Date: 15.06.2026
-  Version: 1.0.0
-    Changes:
-      - Initial release.
+  Changes:
+    - Initial release.
